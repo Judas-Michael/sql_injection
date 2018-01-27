@@ -1,0 +1,4 @@
+I tried to enter bill's username and ""  ' or password like 'k%"" for the password
+I entered 'or username like 'b% for the username
+		when you use the username beginning with x and password beginning with x you can access the account twice as fast
+		
